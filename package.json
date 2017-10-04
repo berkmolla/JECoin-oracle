@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/berkmolla/JECoin-oracle#readme",
   "dependencies": {
-    "githubhook": "^1.9.1"
+    "githubhook": "^1.9.1",
+    "truffle": "^3.4.11"
   }
 }
